@@ -1,0 +1,152 @@
+.body2 {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    margin: 0px;
+    background-color: #1c1c1c;
+     color: #f5f5f5;
+     
+
+}
+
+.productocelular {
+
+    width: 150px;
+    height: auto;
+    
+    
+    
+    
+}
+
+table { 
+    border-collapse: collapse;
+    margin-top: 40px;
+}
+
+.body1 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    background: #1c1c1c;
+    color: #f5f5f5;
+    position: relative;
+
+
+}
+
+.tienda {
+
+    text-align: center;
+    padding: 100px;
+    
+
+
+}
+
+#logo {
+
+    width: 80px;
+    border-radius: 100px;
+
+
+}
+
+.title {
+    font-size: 40px;
+    color: black;
+    background: red;
+    border-radius: 50px;
+}
+
+.secciones {
+
+    
+    text-align: center;
+    
+
+
+}
+
+.secciones {
+
+    background-color: #f5f5f5;
+    
+    background-color: red;
+    font-weight: bold;
+    font-size: 20px;
+    
+    
+    
+    
+    
+}
+ 
+a { 
+    color: black;
+    text-decoration: none;
+    padding: 20px 20px;
+    
+    
+
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+    width: 100%;
+    
+}
+
+nav a {
+    transition: transform 0.3s ease;
+}
+
+label {
+    display: block;
+    margin-top: 35px;
+    font-weight: bold;
+}
+
+textarea {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+
+#btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: white;
+    border: none;
+    font-size: 16px;
+    
+}
+
+input  {
+    width: 80%;
+    padding: 8px;
+    margin-top: 5px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+.form{
+
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 500px;
+    margin: 50px auto;
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #ccc;
+    color: black;
+}
+
+nav a:hover {
+
+    color: white;
+    transform: scale(1.1);
+}
